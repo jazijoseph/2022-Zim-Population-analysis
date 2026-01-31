@@ -14,7 +14,7 @@ Gender Metrics: Calculate and visualize Male-to-Female (M:F) ratios at ward, dis
 
 Household Insights: Analyze the average number of people per household across different regions.
 
-🛠️ Data Extraction & Cleaning (The "Heavy Lifting")
+Data Extraction & Cleaning (The "Heavy Lifting")
 
 As the official data was provided in PDF format only, extensive data cleaning was necessary:
 
@@ -62,3 +62,4 @@ For others looking to extract similar data, I recommend exploring Python librari
 Author: [JAZI JOSEPH DATA SCIENTIST -ZW]
 
 DATE: December 20, 2025
+
